@@ -1,5 +1,6 @@
 package test;
 
-public class qwe {
+public class xyz
+{
 
 }
